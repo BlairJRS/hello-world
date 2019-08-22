@@ -1,2 +1,3 @@
 # hello-world
-This is an exercise to practice creating repositories.
+In this I am making changes to the readme file.  But they won't show up until I commit them.
+Spell check does not automatically happen.
